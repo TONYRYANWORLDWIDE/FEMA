@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.jekyll-theme-time-machine }}";
+
+header {
+  display: none;
+}
